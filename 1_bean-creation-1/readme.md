@@ -1,0 +1,1 @@
+transform POJOs into beans
